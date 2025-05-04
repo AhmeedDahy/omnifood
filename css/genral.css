@@ -65,7 +65,7 @@ Medium: 11px
 html {
   /* font-size: 10px; */
   /* 10/16 = 0.625 = 62.5% */
-  font-size: 62.4%;
+  font-size: 62.5%;
   overflow-x: hidden;
 
   /* scroll-behavior: smooth; */
